@@ -1,0 +1,210 @@
+body{
+    background-color: #ece8e8;
+}
+
+.divcabeza{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(232, 229, 229);
+}
+
+.logotransparente{
+    padding-left: 80px;
+    height: 160px;
+}
+
+.divimg{
+    margin-left: 340px;
+    width: 25%;
+}
+
+.divform{
+    padding-top: 10px;
+    display: flex; 
+}
+
+.divbotones{
+    width: 100%;
+
+}
+
+.divbtns{
+    background-color: white;
+    width: 960px;
+    margin: auto;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    margin: auto;
+
+}
+
+
+form{
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    margin: auto;
+    margin-right: 378px;
+}
+
+.botones{
+    text-align: center;
+    padding-right: 20px;
+    padding-left: 30px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif6;
+    color: black;
+    border-right: 1px solid;
+    height: 220px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+
+}
+
+.botones:hover{
+    color: white;
+    background-color: #5d0201;
+}
+
+.btnenviar{
+    border-radius: 10px;
+    width: 100px;
+    background: #cc9900;
+    color: white;
+}
+
+.imagen1{
+    text-align: center;
+}
+
+
+.divtitulos{
+    margin-left: 380px;
+    text-align: center;
+    display: flex;
+}
+.divengrane-title {
+    width: 350px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .engrane {
+    width: 30px;
+    margin-right: 10px;
+  }
+  
+  .h2uno {
+    color: #5d0201;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .divimg1 {
+    width: 350px;
+    margin-top: 20px;
+  }
+  
+  .inst1 {
+
+    max-width: 100%;
+    height: auto;
+  }
+
+
+  .egresadoycampo{
+    margin-left:450px;
+    display: flex;
+    width: 1000px;
+  }
+
+  .divcampotrabjo{
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: #5d0201;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 350px;
+    text-align: center;
+
+  }
+
+
+  .p3{  
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    color: white;
+  }
+  .ct{
+    text-transform: uppercase;
+    color: #cc9900;
+    text-align: center;
+  }
+
+  #VerMas{
+    background-color: #cc9900;
+    border-radius: 5px;
+    text-decoration: none;
+    text-shadow: none;
+    width: 80px;
+    text-align: center;
+    color: black;
+
+  }
+
+  .egresado{
+    width: 900px;
+  }
+
+  .Egresado{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 900;
+    font-size: 30px;
+  }
+
+  .ifram{
+    width: 100%;
+    height: 300px;
+    border: 1px solid;
+    background-color: #101518;
+    display: flex;
+
+  }
+
+  .it{
+    text-transform: uppercase;
+    color: #cc9900;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  .it2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .divtextos{
+    border: 1px solid;
+    margin-left: 400px;
+    
+
+  }
+
+  iframe{
+    padding-top: 20px;
+    margin-left: 30px;
+  }
+
+  .divimgfinal{
+    margin-left: 120px;
+    text-align: center;
+  }
+
+  .txtfinal{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
